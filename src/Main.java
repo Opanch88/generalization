@@ -1,3 +1,5 @@
+package homework4_generalization.src;
+
 import linkedList.MyLinked;
 import linkedList.MyLinkedList;
 import list.MyArrayList;
